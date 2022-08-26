@@ -76,10 +76,10 @@ View app on http://localhost:3000
 - [Final Report](https://github.com/mounvip1525/QuoVit/blob/master/19BCE0396_VL2021220105208_PE003.pdf)
 
 ## Contributors 🌟
-- [Mounvi Podapati](https://github.com/mounvip1525)
-- [Adarsh Mishra](https://github.com/adarsh0701)
+- [Kabir Wadhwa]
+- [Bhavya Chahal]
 - [Trinav Rattan](https://github.com/Trinav2001)
-- [Tanmay Srivastava](https://github.com/tanmay-xvx)
+
 
 ```javascript
 
